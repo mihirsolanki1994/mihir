@@ -77,13 +77,13 @@
 			</div>
 			
 			<p>&nbsp;</p>
-			<p>You can view statistics for this URL here: <a href="<?php echo base_url( 'view/'.$url_data->alias  ); ?>" target="_blank"><?php echo base_url( 'view/'.$url_data->alias  ); ?></a></p>
+			<p>You can view your URL here: <a href="<?php echo base_url( 'view/'.$url_data->alias  ); ?>" target="_blank"><?php echo base_url( 'view/'.$url_data->alias  ); ?></a></p>
 			
 		</div>
 		<?php endif; ?>
 
 	</div>
-	
+
 	
 	<script  src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
 	
